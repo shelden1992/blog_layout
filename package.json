@@ -4,7 +4,7 @@
   "description": "HW1",
   "main": "index.js",
   "scripts": {
-    "test": "parcel task_1.html"
+    "test": "parcel task_2.html"
   },
   "repository": {
     "type": "git",
