@@ -1,0 +1,25 @@
+{
+  "name": "blog_layout",
+  "version": "1.0.0",
+  "description": "HW1",
+  "main": "index.js",
+  "scripts": {
+    "test": "parcel task_1.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelden1992/blog_layout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shelden1992/blog_layout/issues"
+  },
+  "homepage": "https://github.com/shelden1992/blog_layout#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "prettier": "^3.2.4"
+  }
+}
